@@ -40,7 +40,7 @@ body {
 /* landing page */
 
 .home-inner {
-    background-image: url(images/s_pc_gadjet.jpg);
+    background-image: url(images/s_s_pc_gadjet.jpg);
 }
 
 .caption {
@@ -76,7 +76,7 @@ body {
 
 /* aboutme section */
 .profile_image {
-    background-image: url("images/profile.jpg");
+    background-image: url("images/s_profile.jpg");
     width: 300px;
     height: 300px;
     border-radius: 50%;
@@ -128,7 +128,7 @@ h3.heading {
 /* portfolio and work section */
 
 .fixed.portfolio {
-    background-image: url(images/s_portitem3.jpeg)
+    background-image: url(images/s_s_s_portitem3.jpeg)
 }
 
 .fixed.work {
