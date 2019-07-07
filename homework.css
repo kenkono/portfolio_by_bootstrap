@@ -88,6 +88,10 @@ body {
     font-size: 1.3rem;
 }
 
+.aboutme-title {
+    text-transform: uppercase;
+}
+
 /* favorite section */
 
 .jumbotron {
@@ -124,7 +128,7 @@ h3.heading {
 /* work section */
 
 .fixed {
-    background-image: url(images/numbers.jpg)
+    background-image: url(images/portitem3.jpeg)
 }
 
 .dark {
@@ -195,11 +199,5 @@ footer .sns:hover {
 
     .narrow h1 {
         font-size: 1.5rem;
-    }
-
-    .clients img {
-        max-width: 50%;
-        display: block;
-        margin: 0 auto;
     }
 }
